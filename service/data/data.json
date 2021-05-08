@@ -1,0 +1,321 @@
+{
+  "data": {
+    "types": [
+      {
+        "name": "动画",
+        "val": 124,
+        "to": "/video"
+      },
+      {
+        "name": "音乐",
+        "val": 124,
+        "to": "/music"
+      },
+      {
+        "name": "舞蹈",
+        "val": 316,
+        "to": "/dance"
+      },
+      {
+        "name": "知识",
+        "val": 15,
+        "to": "/dm"
+      },
+      {
+        "name": "生活",
+        "val": 26,
+        "to": "/dm"
+      },
+      {
+        "name": "时尚",
+        "val": 1236,
+        "to": "/dm"
+      },
+      {
+        "name": "娱乐",
+        "val": 136
+      },
+      {
+        "name": "放映厅",
+        "val": 135
+      },
+      {
+        "name": "美食",
+        "val": 17
+      },
+      {
+        "name": "单机游戏",
+        "val": 27
+      },
+      {
+        "name": "番剧",
+        "val": 347
+      },
+      {
+        "name": "国创",
+        "val": 26
+      },
+      {
+        "name": "游戏",
+        "val": 136
+      },
+      {
+        "name": "数码",
+        "val": 125
+      },
+      {
+        "name": "鬼畜",
+        "val": 247
+      },
+      {
+        "name": "咨询",
+        "val": 247
+      }
+    ],
+    "actives": [
+      {
+        "name": "专栏"
+      },
+      {
+        "name": "活动"
+      },
+      {
+        "name": "小黑屋"
+      },
+      {
+        "name": "直播"
+      },
+      {
+        "name": "课堂"
+      },
+      {
+        "name": "音乐PLUS"
+      }
+    ],
+    "carousels": [
+      {
+        "url": "https://i0.hdslb.com/bfs/feed-admin/6ccce1975977f6ebded44d9af1f509abc499c862.jpg@880w_388h_1c_95q"
+      },
+      {
+        "url": "https://i0.hdslb.com/bfs/sycp/creative_img/202104/55784c9cacb7f5db59283ab7bb92dc4f.jpg@880w_388h_1c_95q"
+      },
+      {
+        "url": "https://i0.hdslb.com/bfs/feed-admin/ada24105eb71e4d04a042e2eefb181322a2dbe5a.jpg@880w_388h_1c_95q"
+      },
+      {
+        "url": "https://i0.hdslb.com/bfs/feed-admin/3d43e2f89027a2079b31a40cb9ae0021d2ee7c78.png@880w_388h_1c_95q"
+      },
+      {
+        "url": "https://i0.hdslb.com/bfs/feed-admin/34ded67b5b8bff7d6b0218d6e67392cbfb5d36d7.png@880w_388h_1c_95q"
+      }
+    ],
+    "videos": [
+      {
+        "url": "//i0.hdslb.com/bfs/archive/3e71439f2ebb94ad67cee94bb8bdce5c9197c6bb.jpg@320w_200h.webp",
+        "title": "【冰冰vlog.001】带大家看看每个冬天我必去的地方",
+        "up": "吃花椒的喵酱",
+        "to": "https://www.bilibili.com/video/BV1vy4y1i7bS"
+      },
+      {
+        "url": "//i1.hdslb.com/bfs/archive/03c59c4870d41c40a5e29269c5d3b4d0f4610b76.jpg@320w_200h.webp",
+        "title": "年年有“鱼”",
+        "up": "吃花椒的喵酱",
+        "to": "https://www.bilibili.com/video/BV18U4y1W72R"
+      },
+      {
+        "url": "http://i0.hdslb.com/bfs/archive/5d4e0dfd051692a0bab6f8751cfbffa76d4271e4.jpg",
+        "title": "【冰冰vlog.006】吸猫猫的喵酱，一天撸到30多只猫！",
+        "up": "吃花椒的喵酱",
+        "to": "https://www.bilibili.com/video/BV1v64y1v7ZV"
+      },
+      {
+        "url": "http://i1.hdslb.com/bfs/archive/e548230186a3583ade51866343f087c8c1a39500.jpg",
+        "title": "【不愧是我 01】再不学单板滑雪，雪季就要结束了",
+        "up": "吃花椒的喵酱",
+        "to": "https://www.bilibili.com/video/BV1jK4y1D7Ft"
+      },
+      {
+        "url": "http://i0.hdslb.com/bfs/archive/398d115eaa8fb68b4ead347b113c4195b34c29c1.jpg",
+        "title": "你可能对人民法院 一 无 所 知",
+        "up": "吃花椒的喵酱",
+        "to": "https://www.bilibili.com/video/BV1uV411v71R"
+      },
+      {
+        "url": "http://i0.hdslb.com/bfs/archive/751736e40031fa1b5aee9c2f828edb90fc7c8797.jpg",
+        "title": "【冰冰vlog.005】这一大盘肉，紧紧拴着东北人的心",
+        "up": "吃花椒的喵酱",
+        "to": "https://www.bilibili.com/video/BV1yK4y1n7y2"
+      },
+      {
+        "url": "http://i0.hdslb.com/bfs/archive/8a4463c4f4653bd2353d18105c9cbd0fee7de097.jpg",
+        "title": "虽然隔着1000公里，但是我们千里共此时！干杯！",
+        "up": "吃花椒的喵酱",
+        "to": "https://www.bilibili.com/video/BV11K4y1D7RX"
+      },
+      {
+        "url": "http://i1.hdslb.com/bfs/archive/023fc35e4afd90139f77f17e6cdc01a888357e45.jpg",
+        "title": "【冰冰vlog.004】小王出息了！晚会录制初体验",
+        "up": "吃花椒的喵酱",
+        "to": "https://www.bilibili.com/video/BV1BU4y1s7Vs"
+      },
+      {
+        "url": "http://i1.hdslb.com/bfs/archive/dffb88cab583d629334bb60447a7dbef4e2d8d1e.jpg",
+        "title": "【冰冰vlog.003】出 差 摸 鱼 逛 北 京",
+        "up": "吃花椒的喵酱",
+        "to": "https://www.bilibili.com/video/BV15K411u7t1"
+      },
+      {
+        "url": "http://i2.hdslb.com/bfs/archive/2e53cefd0e0d3c5cae094c83c35a15d23d15917a.jpg",
+        "title": "【冰冰vlog.002】我的行李箱真的不止这一件衣服啊喂(・Д・)ノ",
+        "up": "吃花椒的喵酱",
+        "to": "https://www.bilibili.com/video/BV1Yv411W71Z"
+      }
+    ],
+    "promotions": [
+      {
+        "url": "//i0.hdslb.com/bfs/feed-admin/5c93b4786d1b5c25d9470bc2a9de6fbb8fdc588d.jpg@412w_232h_1c"
+      },
+      {
+        "url": "https://i0.hdslb.com/bfs/sycp/creative_img/202104/fa5694c11c51a5b181eaa9fccd475175.jpg@412w_232h_1c"
+      },
+      {
+        "url": "//i0.hdslb.com/bfs/archive/d39d33d90aa59bb0a9d8694f846f954a68f304e2.jpg@412w_232h_1c"
+      },
+      {
+        "url": "//i0.hdslb.com/bfs/feed-admin/5c93b4786d1b5c25d9470bc2a9de6fbb8fdc588d.jpg@412w_232h_1c"
+      },
+      {
+        "url": "//i0.hdslb.com/bfs/archive/fc7de1db6cd87057592cc42b4e5ab41265cef927.jpg@412w_232h_1c"
+      },
+      {
+        "url": "//i0.hdslb.com/bfs/archive/bcc49be00dfae67ab7464958eb5911c0aeca54a5.jpg@412w_232h_1c"
+      }
+    ],
+    "modules": [
+      {
+        "name": "动画",
+        "list": [
+          {
+            "to": "https://www.bilibili.com/video/BV1mU4y1b7kw",
+            "title": "十三想杀阿七？阿七即将魔化！逐帧解析《伍六七第三季》第八集PV",
+            "up": "利维坦mY",
+            "pic": "http://i2.hdslb.com/bfs/archive/065c7ca17d2df981f65ac39b7c3487aa91cdfac6.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV14B4y1A7xj",
+            "title": "二 次 元 老 师！",
+            "up": "呜米",
+            "pic": "http://i0.hdslb.com/bfs/archive/e9e1a8c494ba8c43a0500817119ef2378e7deb7a.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV1SB4y1w7St",
+            "title": "《离 谱 动 画 片》",
+            "up": "育碧先生",
+            "pic": "http://i1.hdslb.com/bfs/archive/f183488238e6a10cbb1a50745a3ea5905e517578.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV1Zp4y1t7YF",
+            "title": "太震撼了！史上最细时光代理人OP深度解读！黑马动画预定",
+            "up": "童颜泡芙",
+            "pic": "http://i1.hdslb.com/bfs/archive/efbdbbfcb7333075b53f90a76e06d34585311635.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV1y64y1S7Vi",
+            "title": "“泼墨山水入卷抽 ，飘散思绪谁来收”",
+            "up": "橘子想吃柠檬",
+            "pic": "http://i0.hdslb.com/bfs/archive/c949011e13a6557d387d07847e7008d5ee051cd3.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV1964y1m7JF",
+            "title": "【秘宝之国】文物竟是我老婆？小日子过的越来越有判头啦！",
+            "up": "初出茅庐的诸葛村夫",
+            "pic": "http://i1.hdslb.com/bfs/archive/5707582ccf5962253b5e48d2b79c6439d32d5484.jpg"
+          }
+        ]
+      },
+      {
+        "name": "美妆",
+        "list": [
+          {
+            "to": "https://www.bilibili.com/video/BV1LB4y1A7vL",
+            "title": "大家把我当兄弟，但是今天我要和大家做姐妹！",
+            "up": "拉宏桑",
+            "pic": "http://i2.hdslb.com/bfs/archive/fbd1559de714821418194b36dc8d1281267d7f81.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV1dh411U7CC",
+            "title": "【5分钟考前突击】800米1000米轻松高分｜身体黑客 体育考试逆天改命｜体测 体考 体育考试 跑步",
+            "up": "跑步的子章老师",
+            "pic": "http://i1.hdslb.com/bfs/archive/27c7f1961d286d9ef95e2b81f3ed68fde19984e7.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV1pK4y1o7co",
+            "title": "大家好我真的不是曾涵江cup",
+            "up": "不知名喜剧人k",
+            "pic": "http://i2.hdslb.com/bfs/archive/7cfbb42919190929da067b273b782355cdeeb4b7.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV1Rp4y187y5",
+            "title": "10分钟矫正小腿外翻，get直长腿，亲测一周见效！",
+            "up": "韩小四April",
+            "pic": "http://i2.hdslb.com/bfs/archive/cba78430358f6eaa503ccbd56cc83848741ebab5.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV1Sh411U7eq",
+            "title": "学校没有健身房，女大学生在宿舍健身四年！会练成什么样？",
+            "up": "街健腿毛",
+            "pic": "http://i1.hdslb.com/bfs/archive/97ad5e67c41dac1fc17a92cbd4f40906f504c9eb.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV1RV411E7CM",
+            "title": "获诺贝尔奖的抗衰老秘诀！颜值逆袭的最佳运动，简直血赚！",
+            "up": "叔贵",
+            "pic": "http://i2.hdslb.com/bfs/archive/0beabb8b601e2a419a3f0a47f8120c29ae28391e.jpg"
+          }
+        ]
+      },
+      {
+        "name": "音乐",
+        "list": [
+          {
+            "to": "https://www.bilibili.com/video/BV1k5411c7wr",
+            "title": "教科书演唱 影视剧系列之 仙剑奇侠传 曾一鸣 《偏爱》",
+            "up": "歌手曾一鸣",
+            "pic": "http://i0.hdslb.com/bfs/archive/482144d612ec369fbb82c2a3c7855d8d635727a3.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV1f54y1L7xV",
+            "title": "癫狂说唱天花板！原版与官方现场来了！GALI与李棒棒Reaction。",
+            "up": "街头社区",
+            "pic": "http://i1.hdslb.com/bfs/archive/820230ea5f5bd6e52ab74e897e618147d1a6efe7.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV1R64y1m7vw",
+            "title": "传唱千年的经典民谣《斯卡布罗集市》（无损音质）：跟随旋律再温《指环王》中人族国王和精灵公主的旷世之恋",
+            "up": "仰望星空的李小龙",
+            "pic": "http://i1.hdslb.com/bfs/archive/9942b2ff439e0e9e2caf6db9e2c14d2188cc58f8.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV1gK4y1P7kq",
+            "title": "黑胶试听｜WAP - Cardi B/Megan Thee Stallion",
+            "up": "csjames",
+            "pic": "http://i2.hdslb.com/bfs/archive/300a0bb25fd553fffd27ec8154ac754ecc21815e.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV165411c7zx",
+            "title": "【华语巅峰】2006年华语乐坛是史上神曲最多的年份吗？开幕雷击，全程都要起立！",
+            "up": "SavageTurely",
+            "pic": "http://i1.hdslb.com/bfs/archive/748535a92cc773e1f807c558cf57a316ea0a1f02.jpg"
+          },
+          {
+            "to": "https://www.bilibili.com/video/BV1x64y1i7qj",
+            "title": "论米卡和《求佛》的适配度",
+            "up": "小姐姐说实话",
+            "pic": "http://i0.hdslb.com/bfs/archive/6bc9b14582962c598d3c080faef91f2605093019.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "code": 20000
+}

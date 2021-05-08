@@ -1,0 +1,35 @@
+<template>
+
+  <el-row>
+    <el-col style="padding: 20px">
+      <el-row>
+        <SpaceTitleFont title="我的相簿"/>
+      </el-row>
+      <el-row>
+        <div align="center">
+          <el-image src="https://s1.hdslb.com/bfs/static/jinkela/space/assets/nodata02.png"></el-image>
+          <p class="font-dark-gray" style="line-height:0px">空间主人还没有投过相簿哦~</p>
+        </div>
+      </el-row>
+    </el-col>
+  </el-row>
+
+</template>
+
+<script>
+    import SpaceTitleFont from "@/views/space/components/SpaceTitleFont";
+
+    export default {
+        name: "SpaceAlbum",
+        components: {SpaceTitleFont},
+        data() {
+            return {}
+        }
+    }
+</script>
+
+<style scoped lang="scss">
+  .active {
+    background: #000;
+  }
+</style>
